@@ -9,8 +9,8 @@ int main()
     int i=1;
     double vt[N];
     double *p_vt = vt;
-
     srand(time(NULL));
+
     while (p_vt<vt+N)
     {
         *p_vt = 1+rand()%100;
