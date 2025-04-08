@@ -1,0 +1,11 @@
+2)f. Inspeccione la carpeta donde inicializó el repositorio: 
+    ¿Puede ver el archivo tp2_1_2.c? ¿Por qué? 
+tp2_1_2.c se commiteo en el branch Opcion_2 una ramificacion de la carpeta del trabajo original 
+el archivo no aparece por que todavia no esta unida a la principal esto por que se quiere evitar 
+que los archivos trabajados en l rama puedan afectar el correcto funcionamiento del pryecto original
+
+    En VSCode vuelva al “Source Control” ¿Qué diferencias nota? 
+Aparece en el grafico la rama en la cual se esta trabajando
+
+    En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?  
+Aparece en el grafico la rama ya fusionada con la carpeta original guardando asi los cambio hechos en la rama 
